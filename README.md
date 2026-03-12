@@ -82,7 +82,7 @@ I'm a builder, leader, and learner — all at once. Before finishing my **first 
 ## 🚀 Frontend Projects — All Live
 
 > 🔗 Every project is deployed at **[rishita-sanghavi.netlify.app](https://rishita-sanghavi.netlify.app)**
-
+<div align="center">
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
 | ♟️ | **Chess Game** | Drag-and-drop with full move validation logic | HTML, CSS, JS |
